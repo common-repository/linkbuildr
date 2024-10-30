@@ -1,0 +1,38 @@
+/* CSS Document */
+
+
+.savetext {
+	color:#1A237E;
+	padding:4px 0px; 
+	margin-bottom:8px;
+}
+
+#LB-options {
+	background-color: #FFFFFF;
+	border: 2px solid #1A237E;
+	padding:10px 10px;
+	margin-top: 10px;
+    margin-bottom: 15px;
+	color:#1A237E;
+}
+
+#linkbuildr_alert {
+	background-color:#ffffff; 
+	color:#1A237E; 
+	font-weight: bold; 
+	border: 2px solid #1A237E; 
+	padding: 10px;
+}
+#linkbuildr_alert a {
+	color: #F57171;
+}
+
+.logoholdermeta img {
+	max-width:100px;
+	padding-bottom:10px;
+}
+.logoholdermsg img {
+	max-width: 90px;
+    padding-right: 8px;
+    margin-bottom: -.3px;
+}
